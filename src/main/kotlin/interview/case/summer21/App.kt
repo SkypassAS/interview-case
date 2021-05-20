@@ -11,6 +11,10 @@ import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 
 
 fun main(args: Array<String>) {
+    generateExportJson()
+}
+
+fun readPdfWords() {
 
     val pdfData = ResourceLoader.loadPdfData("/import2.pdf")
             ?: throw IllegalArgumentException("Could not load pdf")
@@ -38,3 +42,42 @@ fun main(args: Array<String>) {
     val json = mapper.writeValueAsString(randomizedWords)
     println(json)
 }
+
+fun generateExportJson() {
+    val csv = """
+        1,170,789
+        2,160,789
+        3,153,789
+        4,154,790
+        5,157,793
+        6,155,791
+        7,172,795
+        8,172,795
+        9,156,793
+        10,159,790
+        11,156,794
+        12,157,794
+        13,158,790
+        14,160,792
+        15,170,789
+        16,171,789
+        17,172,795
+        18,157,794
+    """.trimIndent()
+
+    val rows = csv.split("\n")
+            .map { row ->
+                val cols = row.split(",")
+                ExportRow(cols[0].toInt(), cols[1], cols[2])
+            }
+
+    val mapper = jacksonObjectMapper().writerWithDefaultPrettyPrinter()
+    val json = mapper.writeValueAsString(rows)
+    println(json)
+}
+
+data class ExportRow(
+        val varelinje: Int,
+        val ordrenummer: String,
+        val varenummer: String
+)
