@@ -1,0 +1,1299 @@
+[ {
+  "text" : "190",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 419.87192,
+    "rightX" : 466.09302,
+    "bottomY" : 430.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 428.25
+}, {
+  "text" : "Glassøye",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 301.37192,
+    "rightX" : 400.43176,
+    "bottomY" : 312.3669,
+    "width" : 46.431763,
+    "height" : 10.994995
+  },
+  "baseLineY" : 309.75
+}, {
+  "text" : "11",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 400.37192,
+    "rightX" : 85.66206,
+    "bottomY" : 411.3669,
+    "width" : 11.412064,
+    "height" : 10.994995
+  },
+  "baseLineY" : 408.75
+}, {
+  "text" : "154",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 221.87195,
+    "rightX" : 145.09299,
+    "bottomY" : 232.86694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 230.25
+}, {
+  "text" : "790",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 400.37192,
+    "rightX" : 278.59302,
+    "bottomY" : 411.3669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 408.75
+}, {
+  "text" : "1",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 202.37195,
+    "rightX" : 80.36322,
+    "bottomY" : 213.36694,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 210.75
+}, {
+  "text" : "160",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 459.62192,
+    "rightX" : 145.09299,
+    "bottomY" : 470.6169,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 468.0
+}, {
+  "text" : "789",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 499.37192,
+    "rightX" : 278.59302,
+    "bottomY" : 510.3669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 507.75
+}, {
+  "text" : "Jakke",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 518.87195,
+    "rightX" : 382.72058,
+    "bottomY" : 529.86694,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 527.25
+}, {
+  "text" : "170",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 518.87195,
+    "rightX" : 145.09299,
+    "bottomY" : 529.86694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 527.25
+}, {
+  "text" : "793",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 341.12192,
+    "rightX" : 278.59302,
+    "bottomY" : 352.1169,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 349.5
+}, {
+  "text" : "157",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 380.87192,
+    "rightX" : 145.09299,
+    "bottomY" : 391.8669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 389.25
+}, {
+  "text" : "60",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 499.37192,
+    "rightX" : 459.97812,
+    "bottomY" : 510.3669,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 507.75
+}, {
+  "text" : "14",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 459.62192,
+    "rightX" : 86.4781,
+    "bottomY" : 470.6169,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 468.0
+}, {
+  "text" : "Lue",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 578.87195,
+    "rightX" : 372.34302,
+    "bottomY" : 589.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 587.25
+}, {
+  "text" : "Varenummer",
+  "box" : {
+    "leftX" : 263.25,
+    "topY" : 182.12195,
+    "rightX" : 325.98257,
+    "bottomY" : 193.11694,
+    "width" : 62.732574,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "Glassøye",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 360.62192,
+    "rightX" : 400.43176,
+    "bottomY" : 371.6169,
+    "width" : 46.431763,
+    "height" : 10.994995
+  },
+  "baseLineY" : 369.0
+}, {
+  "text" : "789",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 539.12195,
+    "rightX" : 278.59302,
+    "bottomY" : 550.11694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 547.5
+}, {
+  "text" : "790",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 221.87195,
+    "rightX" : 278.59302,
+    "bottomY" : 232.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 230.25
+}, {
+  "text" : "100",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 202.37195,
+    "rightX" : 466.09302,
+    "bottomY" : 213.36694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 210.75
+}, {
+  "text" : "157",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 360.62192,
+    "rightX" : 145.09299,
+    "bottomY" : 371.6169,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 369.0
+}, {
+  "text" : "792",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 479.87192,
+    "rightX" : 278.59302,
+    "bottomY" : 490.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "jakke",
+  "box" : {
+    "leftX" : 377.21936,
+    "topY" : 479.87192,
+    "rightX" : 402.8852,
+    "bottomY" : 490.8669,
+    "width" : 25.665833,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "3",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 242.12195,
+    "rightX" : 80.36322,
+    "bottomY" : 253.11694,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "172",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 578.87195,
+    "rightX" : 145.09299,
+    "bottomY" : 589.86694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 587.25
+}, {
+  "text" : "155",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 242.12195,
+    "rightX" : 145.09299,
+    "bottomY" : 253.11694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "110",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 440.12192,
+    "rightX" : 465.27698,
+    "bottomY" : 451.1169,
+    "width" : 17.526978,
+    "height" : 10.994995
+  },
+  "baseLineY" : 448.5
+}, {
+  "text" : "789",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 518.87195,
+    "rightX" : 278.59302,
+    "bottomY" : 529.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 527.25
+}, {
+  "text" : "794",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 380.87192,
+    "rightX" : 278.59302,
+    "bottomY" : 391.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 389.25
+}, {
+  "text" : "Beløp",
+  "box" : {
+    "leftX" : 470.30255,
+    "topY" : 182.12195,
+    "rightX" : 499.02313,
+    "bottomY" : 193.11694,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "567",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 341.12192,
+    "rightX" : 466.09302,
+    "bottomY" : 352.1169,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 349.5
+}, {
+  "text" : "Jakke",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 440.12192,
+    "rightX" : 382.72058,
+    "bottomY" : 451.1169,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 448.5
+}, {
+  "text" : "6",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 301.37192,
+    "rightX" : 80.36322,
+    "bottomY" : 312.3669,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 309.75
+}, {
+  "text" : "567",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 281.87192,
+    "rightX" : 466.09302,
+    "bottomY" : 292.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 290.25
+}, {
+  "text" : "10",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 558.62195,
+    "rightX" : 459.97812,
+    "bottomY" : 569.61694,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 567.0
+}, {
+  "text" : "Lue",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 598.37195,
+    "rightX" : 372.34302,
+    "bottomY" : 609.36694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 606.75
+}, {
+  "text" : "794",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 360.62192,
+    "rightX" : 278.59302,
+    "bottomY" : 371.6169,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 369.0
+}, {
+  "text" : "795",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 558.62195,
+    "rightX" : 278.59302,
+    "bottomY" : 569.61694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 567.0
+}, {
+  "text" : "160",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 440.12192,
+    "rightX" : 145.09299,
+    "bottomY" : 451.1169,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 448.5
+}, {
+  "text" : "790",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 419.87192,
+    "rightX" : 278.59302,
+    "bottomY" : 430.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 428.25
+}, {
+  "text" : "19",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 558.62195,
+    "rightX" : 86.4781,
+    "bottomY" : 569.61694,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 567.0
+}, {
+  "text" : "336",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 320.87192,
+    "rightX" : 466.09302,
+    "bottomY" : 331.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "153",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 202.37195,
+    "rightX" : 145.09299,
+    "bottomY" : 213.36694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 210.75
+}, {
+  "text" : "7",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 320.87192,
+    "rightX" : 80.36322,
+    "bottomY" : 331.8669,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "156",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 261.62195,
+    "rightX" : 145.09299,
+    "bottomY" : 272.61694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "172",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 598.37195,
+    "rightX" : 145.09299,
+    "bottomY" : 609.36694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 606.75
+}, {
+  "text" : "Ordrenummer",
+  "box" : {
+    "leftX" : 129.75,
+    "topY" : 182.12195,
+    "rightX" : 198.17867,
+    "bottomY" : 193.11694,
+    "width" : 68.428665,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "Bukse",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 400.37192,
+    "rightX" : 384.55664,
+    "bottomY" : 411.3669,
+    "width" : 30.55664,
+    "height" : 10.994995
+  },
+  "baseLineY" : 408.75
+}, {
+  "text" : "Jakke",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 202.37195,
+    "rightX" : 382.72058,
+    "bottomY" : 213.36694,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 210.75
+}, {
+  "text" : "157",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 341.12192,
+    "rightX" : 145.09299,
+    "bottomY" : 352.1169,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 349.5
+}, {
+  "text" : "794",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 301.37192,
+    "rightX" : 278.59302,
+    "bottomY" : 312.3669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 309.75
+}, {
+  "text" : "12",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 419.87192,
+    "rightX" : 86.4781,
+    "bottomY" : 430.8669,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 428.25
+}, {
+  "text" : "Stor",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 320.87192,
+    "rightX" : 374.16455,
+    "bottomY" : 331.8669,
+    "width" : 20.16455,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "Dress",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 341.12192,
+    "rightX" : 382.71155,
+    "bottomY" : 352.1169,
+    "width" : 28.711548,
+    "height" : 10.994995
+  },
+  "baseLineY" : 349.5
+}, {
+  "text" : "Varelinje",
+  "box" : {
+    "leftX" : 77.25,
+    "topY" : 182.12195,
+    "rightX" : 119.21501,
+    "bottomY" : 193.11694,
+    "width" : 41.96501,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "791",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 242.12195,
+    "rightX" : 278.59302,
+    "bottomY" : 253.11694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "Stor",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 261.62195,
+    "rightX" : 374.16455,
+    "bottomY" : 272.61694,
+    "width" : 20.16455,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "789",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 202.37195,
+    "rightX" : 278.59302,
+    "bottomY" : 213.36694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 210.75
+}, {
+  "text" : "158",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 400.37192,
+    "rightX" : 145.09299,
+    "bottomY" : 411.3669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 408.75
+}, {
+  "text" : "Importerte",
+  "box" : {
+    "leftX" : 72.0,
+    "topY" : 117.62195,
+    "rightX" : 122.1039,
+    "bottomY" : 128.61694,
+    "width" : 50.103897,
+    "height" : 10.994995
+  },
+  "baseLineY" : 126.0
+}, {
+  "text" : "9",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 360.62192,
+    "rightX" : 80.36322,
+    "bottomY" : 371.6169,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 369.0
+}, {
+  "text" : "789",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 440.12192,
+    "rightX" : 278.59302,
+    "bottomY" : 451.1169,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 448.5
+}, {
+  "text" : "450",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 479.87192,
+    "rightX" : 466.09302,
+    "bottomY" : 490.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "Beskrivelse",
+  "box" : {
+    "leftX" : 357.0,
+    "topY" : 182.12195,
+    "rightX" : 413.21335,
+    "bottomY" : 193.11694,
+    "width" : 56.21335,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "157",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 320.87192,
+    "rightX" : 145.09299,
+    "bottomY" : 331.8669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "15",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 479.87192,
+    "rightX" : 86.4781,
+    "bottomY" : 490.8669,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "795",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 578.87195,
+    "rightX" : 278.59302,
+    "bottomY" : 589.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 587.25
+}, {
+  "text" : "350",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 221.87195,
+    "rightX" : 466.09302,
+    "bottomY" : 232.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 230.25
+}, {
+  "text" : "400",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 261.62195,
+    "rightX" : 466.09302,
+    "bottomY" : 272.61694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "Skypost",
+  "box" : {
+    "leftX" : 72.0,
+    "topY" : 102.62195,
+    "rightX" : 111.10143,
+    "bottomY" : 113.61694,
+    "width" : 39.101433,
+    "height" : 10.994995
+  },
+  "baseLineY" : 111.0
+}, {
+  "text" : "2",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 221.87195,
+    "rightX" : 80.36322,
+    "bottomY" : 232.86694,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 230.25
+}, {
+  "text" : "Jakke",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 539.12195,
+    "rightX" : 382.72058,
+    "bottomY" : 550.11694,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 547.5
+}, {
+  "text" : "13",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 440.12192,
+    "rightX" : 86.4781,
+    "bottomY" : 451.1169,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 448.5
+}, {
+  "text" : "20",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 578.87195,
+    "rightX" : 86.4781,
+    "bottomY" : 589.86694,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 587.25
+}, {
+  "text" : "Bukse",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 419.87192,
+    "rightX" : 384.55664,
+    "bottomY" : 430.8669,
+    "width" : 30.55664,
+    "height" : 10.994995
+  },
+  "baseLineY" : 428.25
+}, {
+  "text" : "792",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 261.62195,
+    "rightX" : 278.59302,
+    "bottomY" : 272.61694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "jakke",
+  "box" : {
+    "leftX" : 372.94592,
+    "topY" : 242.12195,
+    "rightX" : 398.6117,
+    "bottomY" : 253.11694,
+    "width" : 25.665771,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "16",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 499.37192,
+    "rightX" : 86.4781,
+    "bottomY" : 510.3669,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 507.75
+}, {
+  "text" : "172",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 558.62195,
+    "rightX" : 145.09299,
+    "bottomY" : 569.61694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 567.0
+}, {
+  "text" : "156",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 301.37192,
+    "rightX" : 145.09299,
+    "bottomY" : 312.3669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 309.75
+}, {
+  "text" : "Dress",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 281.87192,
+    "rightX" : 382.71155,
+    "bottomY" : 292.8669,
+    "width" : 28.711548,
+    "height" : 10.994995
+  },
+  "baseLineY" : 290.25
+}, {
+  "text" : "8",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 341.12192,
+    "rightX" : 80.36322,
+    "bottomY" : 352.1169,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 349.5
+}, {
+  "text" : "170",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 499.37192,
+    "rightX" : 145.09299,
+    "bottomY" : 510.3669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 507.75
+}, {
+  "text" : "171",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 539.12195,
+    "rightX" : 145.09299,
+    "bottomY" : 550.11694,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 547.5
+}, {
+  "text" : "Lue",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 558.62195,
+    "rightX" : 372.34302,
+    "bottomY" : 569.61694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 567.0
+}, {
+  "text" : "50",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 459.62192,
+    "rightX" : 459.97812,
+    "bottomY" : 470.6169,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 468.0
+}, {
+  "text" : "Bukse",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 221.87195,
+    "rightX" : 384.55664,
+    "bottomY" : 232.86694,
+    "width" : 30.55664,
+    "height" : 10.994995
+  },
+  "baseLineY" : 230.25
+}, {
+  "text" : "276",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 242.12195,
+    "rightX" : 466.09302,
+    "bottomY" : 253.11694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "Bukse",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 459.62192,
+    "rightX" : 384.55664,
+    "bottomY" : 470.6169,
+    "width" : 30.55664,
+    "height" : 10.994995
+  },
+  "baseLineY" : 468.0
+}, {
+  "text" : "4",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 261.62195,
+    "rightX" : 80.36322,
+    "bottomY" : 272.61694,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "790",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 459.62192,
+    "rightX" : 278.59302,
+    "bottomY" : 470.6169,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 468.0
+}, {
+  "text" : "Kul",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 242.12195,
+    "rightX" : 369.88934,
+    "bottomY" : 253.11694,
+    "width" : 15.889343,
+    "height" : 10.994995
+  },
+  "baseLineY" : 250.5
+}, {
+  "text" : "792",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 320.87192,
+    "rightX" : 278.59302,
+    "bottomY" : 331.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "Glassøye",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 380.87192,
+    "rightX" : 400.43176,
+    "bottomY" : 391.8669,
+    "width" : 46.431763,
+    "height" : 10.994995
+  },
+  "baseLineY" : 389.25
+}, {
+  "text" : "30",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 360.62192,
+    "rightX" : 459.97812,
+    "bottomY" : 371.6169,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 369.0
+}, {
+  "text" : "160",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 479.87192,
+    "rightX" : 145.09299,
+    "bottomY" : 490.8669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "18",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 539.12195,
+    "rightX" : 86.4781,
+    "bottomY" : 550.11694,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 547.5
+}, {
+  "text" : "795",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 598.37195,
+    "rightX" : 278.59302,
+    "bottomY" : 609.36694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 606.75
+}, {
+  "text" : "varer",
+  "box" : {
+    "leftX" : 125.160324,
+    "topY" : 117.62195,
+    "rightX" : 150.21033,
+    "bottomY" : 128.61694,
+    "width" : 25.050003,
+    "height" : 10.994995
+  },
+  "baseLineY" : 126.0
+}, {
+  "text" : "Jakke",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 499.37192,
+    "rightX" : 382.72058,
+    "bottomY" : 510.3669,
+    "width" : 28.720581,
+    "height" : 10.994995
+  },
+  "baseLineY" : 507.75
+}, {
+  "text" : "793",
+  "box" : {
+    "leftX" : 260.25,
+    "topY" : 281.87192,
+    "rightX" : 278.59302,
+    "bottomY" : 292.8669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 290.25
+}, {
+  "text" : "21",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 598.37195,
+    "rightX" : 86.4781,
+    "bottomY" : 609.36694,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 606.75
+}, {
+  "text" : "30",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 301.37192,
+    "rightX" : 459.97812,
+    "bottomY" : 312.3669,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 309.75
+}, {
+  "text" : "5",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 281.87192,
+    "rightX" : 80.36322,
+    "bottomY" : 292.8669,
+    "width" : 6.11322,
+    "height" : 10.994995
+  },
+  "baseLineY" : 290.25
+}, {
+  "text" : "10",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 598.37195,
+    "rightX" : 459.97812,
+    "bottomY" : 609.36694,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 606.75
+}, {
+  "text" : "Stor",
+  "box" : {
+    "leftX" : 354.0,
+    "topY" : 479.87192,
+    "rightX" : 374.16455,
+    "bottomY" : 490.8669,
+    "width" : 20.16455,
+    "height" : 10.994995
+  },
+  "baseLineY" : 488.25
+}, {
+  "text" : "30",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 380.87192,
+    "rightX" : 459.97812,
+    "bottomY" : 391.8669,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 389.25
+}, {
+  "text" : "jakke",
+  "box" : {
+    "leftX" : 377.21936,
+    "topY" : 320.87192,
+    "rightX" : 402.8852,
+    "bottomY" : 331.8669,
+    "width" : 25.665833,
+    "height" : 10.994995
+  },
+  "baseLineY" : 329.25
+}, {
+  "text" : "10",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 380.87192,
+    "rightX" : 86.4781,
+    "bottomY" : 391.8669,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 389.25
+}, {
+  "text" : "60",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 539.12195,
+    "rightX" : 459.97812,
+    "bottomY" : 550.11694,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 547.5
+}, {
+  "text" : "200",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 400.37192,
+    "rightX" : 466.09302,
+    "bottomY" : 411.3669,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 408.75
+}, {
+  "text" : "Toll",
+  "box" : {
+    "leftX" : 450.75,
+    "topY" : 182.12195,
+    "rightX" : 467.24597,
+    "bottomY" : 193.11694,
+    "width" : 16.495972,
+    "height" : 10.994995
+  },
+  "baseLineY" : 190.5
+}, {
+  "text" : "20",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 578.87195,
+    "rightX" : 459.97812,
+    "bottomY" : 589.86694,
+    "width" : 12.228119,
+    "height" : 10.994995
+  },
+  "baseLineY" : 587.25
+}, {
+  "text" : "156",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 281.87192,
+    "rightX" : 145.09299,
+    "bottomY" : 292.8669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 290.25
+}, {
+  "text" : "130",
+  "box" : {
+    "leftX" : 447.75,
+    "topY" : 518.87195,
+    "rightX" : 466.09302,
+    "bottomY" : 529.86694,
+    "width" : 18.343018,
+    "height" : 10.994995
+  },
+  "baseLineY" : 527.25
+}, {
+  "text" : "159",
+  "box" : {
+    "leftX" : 126.75,
+    "topY" : 419.87192,
+    "rightX" : 145.09299,
+    "bottomY" : 430.8669,
+    "width" : 18.342987,
+    "height" : 10.994995
+  },
+  "baseLineY" : 428.25
+}, {
+  "text" : "jakke",
+  "box" : {
+    "leftX" : 377.21936,
+    "topY" : 261.62195,
+    "rightX" : 402.8852,
+    "bottomY" : 272.61694,
+    "width" : 25.665833,
+    "height" : 10.994995
+  },
+  "baseLineY" : 270.0
+}, {
+  "text" : "17",
+  "box" : {
+    "leftX" : 74.25,
+    "topY" : 518.87195,
+    "rightX" : 86.4781,
+    "bottomY" : 529.86694,
+    "width" : 12.228104,
+    "height" : 10.994995
+  },
+  "baseLineY" : 527.25
+} ]
