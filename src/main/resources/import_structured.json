@@ -1,0 +1,149 @@
+[
+  {
+    "varelinje": 1,
+    "ordrenummer": "153",
+    "varenummer": "789",
+    "beskrivelse": "Jakke",
+    "tollbeløp": 100
+  },
+  {
+    "varelinje": 2,
+    "ordrenummer": "154",
+    "varenummer": "790",
+    "beskrivelse": "Bukse",
+    "tollbeløp": 350
+  },
+  {
+    "varelinje": 3,
+    "ordrenummer": "155",
+    "varenummer": "791",
+    "beskrivelse": "Kul_jakke",
+    "tollbeløp": 276
+  },
+  {
+    "varelinje": 4,
+    "ordrenummer": "156",
+    "varenummer": "792",
+    "beskrivelse": "Stor_jakke",
+    "tollbeløp": 400
+  },
+  {
+    "varelinje": 5,
+    "ordrenummer": "156",
+    "varenummer": "793",
+    "beskrivelse": "Dress",
+    "tollbeløp": 567
+  },
+  {
+    "varelinje": 6,
+    "ordrenummer": "156",
+    "varenummer": "794",
+    "beskrivelse": "Glassøye",
+    "tollbeløp": 30
+  },
+  {
+    "varelinje": 7,
+    "ordrenummer": "157",
+    "varenummer": "792",
+    "beskrivelse": "Stor_jakke",
+    "tollbeløp": 336
+  },
+  {
+    "varelinje": 8,
+    "ordrenummer": "157",
+    "varenummer": "793",
+    "beskrivelse": "Dress",
+    "tollbeløp": 567
+  },
+  {
+    "varelinje": 9,
+    "ordrenummer": "157",
+    "varenummer": "794",
+    "beskrivelse": "Glassøye",
+    "tollbeløp": 30
+  },
+  {
+    "varelinje": 10,
+    "ordrenummer": "157",
+    "varenummer": "794",
+    "beskrivelse": "Glassøye",
+    "tollbeløp": 30
+  },
+  {
+    "varelinje": 11,
+    "ordrenummer": "158",
+    "varenummer": "790",
+    "beskrivelse": "Bukse",
+    "tollbeløp": 200
+  },
+  {
+    "varelinje": 12,
+    "ordrenummer": "159",
+    "varenummer": "790",
+    "beskrivelse": "Bukse",
+    "tollbeløp": 190
+  },
+  {
+    "varelinje": 13,
+    "ordrenummer": "160",
+    "varenummer": "789",
+    "beskrivelse": "Jakke",
+    "tollbeløp": 110
+  },
+  {
+    "varelinje": 14,
+    "ordrenummer": "160",
+    "varenummer": "790",
+    "beskrivelse": "Bukse",
+    "tollbeløp": 50
+  },
+  {
+    "varelinje": 15,
+    "ordrenummer": "160",
+    "varenummer": "792",
+    "beskrivelse": "Stor_jakke",
+    "tollbeløp": 450
+  },
+  {
+    "varelinje": 16,
+    "ordrenummer": "170",
+    "varenummer": "789",
+    "beskrivelse": "Jakke",
+    "tollbeløp": 60
+  },
+  {
+    "varelinje": 17,
+    "ordrenummer": "170",
+    "varenummer": "789",
+    "beskrivelse": "Jakke",
+    "tollbeløp": 130
+  },
+  {
+    "varelinje": 18,
+    "ordrenummer": "171",
+    "varenummer": "789",
+    "beskrivelse": "Jakke",
+    "tollbeløp": 60
+  },
+  {
+    "varelinje": 19,
+    "ordrenummer": "172",
+    "varenummer": "795",
+    "beskrivelse": "Lue",
+    "tollbeløp": 10
+  },
+  {
+    "varelinje": 20,
+    "ordrenummer": "172",
+    "varenummer": "795",
+    "beskrivelse": "Lue",
+    "tollbeløp": 20
+  },
+  {
+    "varelinje": 21,
+    "ordrenummer": "172",
+    "varenummer": "795",
+    "beskrivelse": "Lue",
+    "tollbeløp": 10
+  }
+]
