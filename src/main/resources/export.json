@@ -1,0 +1,73 @@
+[ {
+  "varelinje" : 1,
+  "ordrenummer" : "170",
+  "varenummer" : "789"
+}, {
+  "varelinje" : 2,
+  "ordrenummer" : "160",
+  "varenummer" : "789"
+}, {
+  "varelinje" : 3,
+  "ordrenummer" : "153",
+  "varenummer" : "789"
+}, {
+  "varelinje" : 4,
+  "ordrenummer" : "154",
+  "varenummer" : "790"
+}, {
+  "varelinje" : 5,
+  "ordrenummer" : "157",
+  "varenummer" : "793"
+}, {
+  "varelinje" : 6,
+  "ordrenummer" : "155",
+  "varenummer" : "791"
+}, {
+  "varelinje" : 7,
+  "ordrenummer" : "172",
+  "varenummer" : "795"
+}, {
+  "varelinje" : 8,
+  "ordrenummer" : "172",
+  "varenummer" : "795"
+}, {
+  "varelinje" : 9,
+  "ordrenummer" : "156",
+  "varenummer" : "793"
+}, {
+  "varelinje" : 10,
+  "ordrenummer" : "159",
+  "varenummer" : "790"
+}, {
+  "varelinje" : 11,
+  "ordrenummer" : "156",
+  "varenummer" : "794"
+}, {
+  "varelinje" : 12,
+  "ordrenummer" : "157",
+  "varenummer" : "794"
+}, {
+  "varelinje" : 13,
+  "ordrenummer" : "158",
+  "varenummer" : "790"
+}, {
+  "varelinje" : 14,
+  "ordrenummer" : "160",
+  "varenummer" : "792"
+}, {
+  "varelinje" : 15,
+  "ordrenummer" : "170",
+  "varenummer" : "789"
+}, {
+  "varelinje" : 16,
+  "ordrenummer" : "171",
+  "varenummer" : "789"
+}, {
+  "varelinje" : 17,
+  "ordrenummer" : "172",
+  "varenummer" : "795"
+}, {
+  "varelinje" : 18,
+  "ordrenummer" : "157",
+  "varenummer" : "794"
+} ]
